@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="intents">
+        <item>Appeller DIAL</item>
+        <item>Ouvrir Google</item>
+        <item>Ouvrir Google MAP</item>
+        <item>chercher MAP</item>
+        <item>Prendre une Photo</item>
+        <item>Ouvrir Liste Contacts</item>
+        <item>Editeur Contact</item>
+        <item>Parametres WIFI</item>
+        <item>Parametres Applications</item>
+    </string-array>
+</resources>
